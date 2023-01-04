@@ -49,6 +49,7 @@ namespace WindowsFormsApp14
             Point point3 = new Point(571, 156);
             Point point4 = new Point(472, 156);
             Point point5 = new Point(218, 156);
+
             Point point6 = new Point(218, 322);
             Point point7 = new Point(472, 322);
             Point point8 = new Point(571, 311);
