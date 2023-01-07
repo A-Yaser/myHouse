@@ -15,7 +15,7 @@ namespace WindowsFormsApp14
         public int i;
         public int y ;
         public int z;
-        public int b = 78;
+
         public Form1()
         {
             InitializeComponent();
