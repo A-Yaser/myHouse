@@ -107,16 +107,6 @@ namespace WindowsFormsApp14
             }
 
 
-            //if (z < windo.Length - 1 && z == door.Length - 1)
-            //{
-
-            //    p1 = windo[z];
-            //    p2 = windo[z + 1];
-            //    this.CreateGraphics().DrawEllipse(Pens.Blue, 509, 113, 30, 30);
-            //    this.CreateGraphics().DrawLine(Pens.Blue, p1, p2);
-            //    z++;
-
-            //}
 
         }
 
