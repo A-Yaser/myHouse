@@ -107,7 +107,10 @@ namespace WindowsFormsApp14
             }
 
 
+<<<<<<< HEAD
         
+=======
+>>>>>>> 54a93739645742064a17bbdfe0e6a760c21e2c22
 
         }
 
